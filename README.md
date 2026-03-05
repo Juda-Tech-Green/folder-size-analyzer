@@ -6,14 +6,14 @@ A high-performance Python desktop application that analyzes your disk space usag
 
 ![Preview](Preview.JPG)
 
-### Quick Start
+## Quick Start (Windows) 🚀
 
-[Download FolderSizeAnalyzer.rar](FolderSizeAnalyzer.rar)
-
-**Download &rarr; Extract &rarr; Execute &rarr; Analyze!**
-
+- **Download** [FolderSizeAnalyzer.rar](FolderSizeAnalyzer.rar)
+- **Extract **
+- **Execute **
+- **Analyze! **
 <br>
-⚠️ **WARNING: Don't delete the `_internal` folder!** The executable needs it to run correctly.
+⚠️ **WARNING: Don't delete the ``_internal`` folder!** The executable needs it to run correctly.
 
 ## Parameterized Depth Analysis
 
