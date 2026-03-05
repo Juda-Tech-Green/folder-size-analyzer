@@ -13,7 +13,7 @@ A high-performance Python desktop application that analyzes your disk space usag
 - **Execute**
 - **Analyze!🔍**
 <br>
-⚠️ **WARNING: Don't delete the ``_internal`` folder!** The executable needs it to run correctly.
+⚠️ **WARNING: Don't delete the ```_internal``` folder!** The executable needs it to run correctly.
 
 ## Parameterized Depth Analysis
 
