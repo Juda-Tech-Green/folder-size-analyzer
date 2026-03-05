@@ -4,7 +4,7 @@ A high-performance Python desktop application that analyzes your disk space usag
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 ### Quick Start
 
